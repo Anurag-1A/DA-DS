@@ -37,9 +37,10 @@ The columns Name and Host name had missing values, they are filled with 'N/A' si
 - Shared room has the lowest average price, making it the most affordable across all the neighborhood and preferred listing for people on a low budget.
 
 ## Dashboard
-!(/images/Airbnb_Dashboard_1.JPG)
+![Dashboard Page 1](images/Airbnb_Dashboard_1.JPG)
 
-!(/images/Airbnb_Dashboard_2.JPG)
+![Dashboard Page 2](images/Airbnb_Dashboard_2.JPG)
+
 
 ## Technologies Used
 
