@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/Airbnb_logo.png" alt="Myntra Logo" width="200"/>
+</p>
+
 #  Airbnb: Exploratory Data Analysis on Airbnb Dataset
 
 ## Business Context 
@@ -48,5 +52,8 @@ The columns Name and Host name had missing values, they are filled with 'N/A' si
 - **Jupyter Notebook**: For code execution and narrative analysis
 - **Power BI**: For building interactive dashboards
 - **Dataset**: `AB_NYC_2019.csv` from Kaggle or Airbnb open datasets
+
+>  **This project is a purely academic exercise and is not affiliated with or endorsed by Airbnb.
+
 
 
